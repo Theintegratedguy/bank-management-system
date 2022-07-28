@@ -1,0 +1,1 @@
+The bank management system allows the bank employees to store the data of the consumers efficiently and access them easily. It has features like data updation, creating a new account, delete an existing account, balance enquiry, etc. 
